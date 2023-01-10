@@ -1,0 +1,24 @@
+.Cards {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Cards-show {
+  position: relative;
+  margin-top: 50px;
+}
+
+.Cards-button {
+  width: 25%;
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 10px;
+  border-radius: 10px;
+  background-color: beige;
+}
+
+.Cards-remain {
+  margin-top: 0;
+}
